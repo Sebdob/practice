@@ -1,0 +1,27 @@
+.icon {
+    width: 125px;
+
+}
+
+.icon2 {
+    width: 175px;
+}
+
+#bottom-top {
+
+    color: rgb(0, 0, 0, 0.7);
+    z-index: 10;
+    right: 10px;
+    bottom: 10px;
+    position: fixed;
+    display: none;
+    cursor: pointer;
+
+}
+
+footer
+{
+    background-color: gray;
+    text-align: center;
+    font-size: 3em;
+}
